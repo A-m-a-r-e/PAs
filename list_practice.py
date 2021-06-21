@@ -13,4 +13,5 @@ print(sports_list)
 print(sports_list[5])
 print(sports_list[0])
 
-
+city_list.sort(key=len)
+print(city_list)
